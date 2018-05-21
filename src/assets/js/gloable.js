@@ -8,5 +8,10 @@ import tweenjs from 'imports-loader?this=>window!tweenjs';
 export default{
 	//场景值
 	screen:0,
-	screenLocked:0
+	screenLocked:0,
+	bg:{},
+	girlAni:{},
+	ground:{},
+	bgContainer:{},
+	ground_bg:{}
 }
